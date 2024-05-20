@@ -1,0 +1,10 @@
+C:\ProjectVS\DownloaderAppUpdater\DownloaderAppUpdater\bin\Debug\DownloaderAppUpdater.exe.config
+C:\ProjectVS\DownloaderAppUpdater\DownloaderAppUpdater\bin\Debug\DownloaderAppUpdater.exe
+C:\ProjectVS\DownloaderAppUpdater\DownloaderAppUpdater\bin\Debug\DownloaderAppUpdater.pdb
+C:\ProjectVS\DownloaderAppUpdater\DownloaderAppUpdater\obj\Debug\DownloaderAppUpdater.csproj.AssemblyReference.cache
+C:\ProjectVS\DownloaderAppUpdater\DownloaderAppUpdater\obj\Debug\DownloaderAppUpdater.Form1.resources
+C:\ProjectVS\DownloaderAppUpdater\DownloaderAppUpdater\obj\Debug\DownloaderAppUpdater.Properties.Resources.resources
+C:\ProjectVS\DownloaderAppUpdater\DownloaderAppUpdater\obj\Debug\DownloaderAppUpdater.csproj.GenerateResource.cache
+C:\ProjectVS\DownloaderAppUpdater\DownloaderAppUpdater\obj\Debug\DownloaderAppUpdater.csproj.CoreCompileInputs.cache
+C:\ProjectVS\DownloaderAppUpdater\DownloaderAppUpdater\obj\Debug\DownloaderAppUpdater.exe
+C:\ProjectVS\DownloaderAppUpdater\DownloaderAppUpdater\obj\Debug\DownloaderAppUpdater.pdb
